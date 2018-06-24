@@ -53,7 +53,7 @@ My main goal its to show how to use a pipeline from github to jenkins (this one 
 17. //  Review with caution to see if everything is correct. And create the pipeline
 18. //  Pipeline created.
 19. //  Logs ok!
-
+20. //  I dont have a code to upload, so I change the command to ls, just to test. and got success output.
     
     
     
